@@ -1,0 +1,10 @@
+{
+	"prefix": "!",
+	"clientId": "ServerID",
+	"DevXorLink": "https://dsc.gg/devxor",
+	"Copyright": {
+		"text": "© Copyright by Abo al-hun 2024 ",
+		"logo": "https://imgur.com/5QRJHn7.png"
+	},
+	"owners": ["AdministratorID"]
+}
